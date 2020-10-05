@@ -1,7 +1,7 @@
-# Reading notes for 401 OPS
+# Reading notes
 
 
-## A colletion of reflections and reading assignments
+## OPS 401
 
 **I look forward to learning**
 
