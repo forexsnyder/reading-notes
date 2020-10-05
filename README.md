@@ -1,5 +1,5 @@
-#Reading notes for 401 OPS
+# Reading notes for 401 OPS
 
 
-##A colletion of reflections and reading assignments
+## A colletion of reflections and reading assignments
 
