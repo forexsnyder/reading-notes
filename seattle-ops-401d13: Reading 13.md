@@ -5,17 +5,29 @@ What is a VPC
 Virtual Private Cloud, essentially a leased virtual data center you have complete control over. 
 
 Basics of VPC
+
 Subnets
+
 Route Tables
+
 Internet Gateways
+
 Network Address Translation
+
 Security groups
+
 Customer Gateway
+
 Virtual Private Gateway
+
 VPN
+
 VPC Peering
+
 VPC Endpoint
+
 Network Access Control Lists
+
 
 Scalable infrastructure so you only pay for what you need.
 
