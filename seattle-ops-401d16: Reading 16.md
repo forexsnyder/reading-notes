@@ -1,5 +1,7 @@
 Jeff Snyder
+
 26OCT2020
+
 BREAKING THE KILL CHAIN: A DEFENSIVE APPROACH
 
 Seven parts of the kill chain:
