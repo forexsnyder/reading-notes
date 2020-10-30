@@ -1,0 +1,16 @@
+Jeff Snyder
+
+STRIDE framework
+Threat modeling in the beginning can help address blind spots.
+Spoofing
+Claiming to be someone you are not.  This can happen in common authentication methods.
+
+Tampering
+
+Repudiation
+
+Information Disclosure
+
+Denial Of Service
+
+Elevation Of Privilege
