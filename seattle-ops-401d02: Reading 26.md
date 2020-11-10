@@ -1,22 +1,28 @@
  # Cyber security automation
  
-	Automate repetitive and mundane tasks. SOAR and RPA take it further.  Configure a preplanned response to incidents.  RPA tools are broader 
+Automate repetitive and mundane tasks. SOAR and RPA take it further.  Configure a 
+	
+preplanned response to incidents.  RPA tools are broader 
   
-  and allow for multiple types of processes to be automated.  Not just security. 
+and allow for multiple types of processes to be automated.  Not just security. 
 
  # Why Automation
  
-	Increase in technical complexities of their business environment.  This can lead to an increase in risk if cybersecurity does
+Increase in technical complexities of their business environment.  This can lead to
+
+an increase in risk if cybersecurity does not keep up with the growth.  Data is 
+
+growing at rates that cannot be processed manually and automation is the solution.  
   
-  not keep up with the growth.  Data is growing at rates that cannot be processed manually and automation is the solution.  
-  
-  Cybersecurity incidents are too hard to catch without some form of automation.
+Cybersecurity incidents are too hard to catch without some form of automation.
 
 # Benefits of Automation
 
-	Off loading the workload to a system that does not sleep or get tired.  Capable of sorting and organizing data faster.  
-  
-  Frees cybersecurity professionals to focus on other projects.
+Off loading the workload to a system that does not sleep or get tired.  Capable of
+
+sorting and organizing data faster.  Frees cybersecurity professionals to
+
+focus on other projects.
 
 Successfully Integrate Automation:
 1. Place developers in the cybersecurity team.
