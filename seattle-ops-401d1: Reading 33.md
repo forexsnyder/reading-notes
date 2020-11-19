@@ -7,7 +7,7 @@ Has the ability to lookup signatures from VirusTotal
 
 List of indicators it uses to identify whether a file is suspicious beyond VirusTotal.
 
-#“Libraries, Imports and Exports”
+# “Libraries, Imports and Exports”
 
 Helps us identify what the capabilities the application has.  
 
