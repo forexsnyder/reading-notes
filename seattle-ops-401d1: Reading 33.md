@@ -15,11 +15,11 @@ Helps us identify what the capabilities the application has.
 
 Perfect for helping us write Yara rules.
 
-#“Certificate”
+# “Certificate”
 
 Most malware is not signed, if it is signed it is from a compromised certificate.
 
-#Ghidra (GHEE-DRA)
+# Ghidra (GHEE-DRA)
 A tool released by the NSA to reverse engineer software.  It is used to figure
 
 out how a program works by taking it apart.  Malware can be analyzed to figure
